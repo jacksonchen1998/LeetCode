@@ -12,4 +12,4 @@ class Solution:
   
 class Solution:
   def isPowerOfFour(self, n : int) -> bool:
-    retuin n > 0 and log(n, 4).is_integer()
+    return n > 0 and log(n, 4).is_integer()
