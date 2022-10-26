@@ -8,7 +8,7 @@ public:
     number |= number >> 16;
     return number;
   }
-  int finComplement(int num){
+  int findComplement(int num){
     return num ^ pollute(num);
   }
 };
