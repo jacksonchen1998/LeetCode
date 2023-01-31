@@ -7,10 +7,7 @@ public:
         vector<pair<string, int>> word_count_vec(word_count.begin(), word_count.end());
         sort(word_count_vec.begin(), word_count_vec.end(), 
             [](const pair<string, int>& a, const pair<string, int>& b) {
-            if (a.second == b.second)
-                return a.first < b.first;
-            else
-                return a.second > b.second;
+            return a.second == b.second ? a.first < b.first : a.second > b.second;
         });
         vector<string> res;
         for (int i = 0; i < k; i++)
