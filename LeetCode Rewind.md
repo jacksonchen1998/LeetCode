@@ -28,3 +28,16 @@
 |--|--|--|
 |190. Reverse Bits|E|✅|
 |191. Number of 1 Bits|E|✅✅|
+
+## Math
+
+|Question|Difficultly|Comprehend|
+|--|--|--|
+|231. Power of Two|E|✅|
+|342. Power of Four|E|✅|
+
+## Dynamic Programming
+
+|Question|Difficultly|Comprehend|
+|--|--|--|
+|338. Counting Bits|E|✅✅✅|
