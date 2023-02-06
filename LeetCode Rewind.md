@@ -21,6 +21,7 @@
 |Question|Difficultly|Comprehend|
 |--|--|--|
 |136. Single Number|E|✅✅✅|
+|645. Set Mismatch|E|✅|
 
 ## Divide and Conquer
 
@@ -41,3 +42,10 @@
 |Question|Difficultly|Comprehend|
 |--|--|--|
 |338. Counting Bits|E|✅✅✅|
+
+## Bit Manipukation
+
+|Question|Difficultly|Comprehend|
+|--|--|--|
+|476. Number Complement|E|✅✅✅|
+|693. Binary Number with Alternating Bits|E|✅✅✅|
