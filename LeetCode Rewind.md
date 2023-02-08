@@ -22,6 +22,8 @@
 |--|--|--|
 |136. Single Number|E|✅✅✅|
 |645. Set Mismatch|E|✅|
+|724. Find Pivot Index|E|✅✅|
+|1480. Running Sum of 1d Array|E|✅✅✅✅|
 |1863. Sum of All Subset XOR Totals|E|✅✅|
 
 ## Divide and Conquer
