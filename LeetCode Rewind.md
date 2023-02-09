@@ -54,3 +54,13 @@
 |--|--|--|
 |476. Number Complement|E|✅✅✅|
 |693. Binary Number with Alternating Bits|E|✅✅✅|
+
+## Hash Table
+|Question|Difficultly|Comprehend|
+|--|--|--|
+|205. Isomorphic Strings|E|✅✅|
+
+## Two Pointers
+|Question|Difficultly|Comprehend|
+|--|--|--|
+|392. Is Subsequence|E|✅✅✅|
