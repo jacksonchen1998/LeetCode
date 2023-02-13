@@ -5,7 +5,7 @@ Used to focus on "LeetCode 75" and "Daily Problem".
 
 <h2>Main language</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,c)](https://skillicons.dev)
 
 <h2>Question DB</h2>
 
