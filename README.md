@@ -18,7 +18,7 @@ Used to focus on "LeetCode 75" and "Daily Problem".
 
 <h2>My Leetcode account</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jacksonchen1998?theme=dark&font=Ubuntu&ext=contest/heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jacksonchen1998?theme=dark&font=Ubuntu&ext=contest)
 
 ## [How to Use LeetCode Effectively](https://www.youtube.com/watch?v=IB_F10twtvY)
 
